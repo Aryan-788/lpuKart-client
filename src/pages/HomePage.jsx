@@ -27,10 +27,6 @@ const HomePage = () => {
 
   return (
     <div className="min-h-screen w-screen bg-[#FFF8E8]">
-      {/* <header className="bg-[#674636] text-[#FFF8E8] text-center py-6">
-        <h1 className="text-4xl font-bold">Welcome to ShopEase</h1>
-        <p className="mt-2 text-lg">Your one-stop shop for amazing products!</p>
-      </header> */}
 
       <section className="py-12 px-4">
         <div className="max-w-6xl mx-auto text-center">
