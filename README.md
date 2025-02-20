@@ -1,4 +1,4 @@
-# LPU Kart - E-Commerce Platform
+# lpuKart - E-Commerce Platform
 
 ![LPU Kart](https://raw.githubusercontent.com/Aryan-788/lpuKart-client/main/lpuKart.png)
 
