@@ -7,7 +7,7 @@
 Experience the live application: [LPU Kart](https://lpukart.vercel.app/)
 
 ## 📝 Description
-LPU Kart is a modern e-commerce platform built with React and Node.js, offering a seamless shopping experience. The application features a clean, intuitive interface with a beautiful color scheme of cream, sand, sage, and brown tones.
+LPU Kart is a modern e-commerce platform built with MERN Concept, offering a seamless shopping experience. The application features a clean, intuitive interface with a beautiful color scheme of cream, sand, sage, and brown tones.
 
 ## ✨ Features
 
@@ -57,6 +57,6 @@ LPU Kart is a modern e-commerce platform built with React and Node.js, offering 
 Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://github.com/Aryan-788/lpuKart-client/issues).
 
 ## 👨‍💻 Author
-Your Name
+Aryan Narayan
 - GitHub: [Aryan-788](https://github.com/Aryan-788)
 - LinkedIn: [Aryan Narayan](https://www.linkedin.com/in/aryan-narayan-06805a217/)
